@@ -63,11 +63,7 @@ const Hero = () => {
                       <WandSparklesIcon />
                     </Button>
                   </div>
-                  <Button key={2} asChild size="lg" variant="ghost">
-                    <Link href="#tutorial">
-                      <span className="text-nowrap">Tutorial</span>
-                    </Link>
-                  </Button>
+                 
                 </div>
               </>
             )}

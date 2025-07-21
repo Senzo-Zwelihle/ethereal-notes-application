@@ -64,7 +64,10 @@ const Hero = () => {
                     </Button>
                   </div>
                   <Button key={2} asChild size="lg" variant="ghost">
-                    <Link href="https://ethereal-notes-application.vercel.app/preview/j57av9wmehnvekn73w9m95p2a97m40x2">
+                    <Link
+                      href="https://ethereal-notes-application.vercel.app/preview/j57av9wmehnvekn73w9m95p2a97m40x2"
+                      target="_blank"
+                    >
                       <span className="text-nowrap">Tutorial</span>
                     </Link>
                   </Button>

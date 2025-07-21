@@ -63,7 +63,11 @@ const Hero = () => {
                       <WandSparklesIcon />
                     </Button>
                   </div>
-                 
+                  <Button key={2} asChild size="lg" variant="ghost">
+                    <Link href="https://ethereal-notes-application.vercel.app/preview/j57av9wmehnvekn73w9m95p2a97m40x2">
+                      <span className="text-nowrap">Tutorial</span>
+                    </Link>
+                  </Button>
                 </div>
               </>
             )}

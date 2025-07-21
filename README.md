@@ -98,5 +98,5 @@ Follow these steps to get Ethereal Notes running on your local machine:
 Begin by cloning the project repository to your local machine:
 
 ```bash
-git clone [https://github.com/your-org/ethereal-notes.git](https://github.com/your-org/ethereal-notes.git)
+[git clone [https://github.com/your-org/ethereal-notes.git](https://github.com/your-org/ethereal-notes.git)](https://github.com/Senzo-Zwelihle/ethereal-notes-application.git)
 cd ethereal-notes

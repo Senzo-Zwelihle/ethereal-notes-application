@@ -1,5 +1,8 @@
 ![Hero Image](./public/assets/images/marketing/hero.png)
 
+
+# Deployment : https://ethereal-notes-application.vercel.app/
+
 # Ethereal Notes - Your Modern Note-Taking Oasis
 
 ## Overview
